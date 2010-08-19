@@ -1,0 +1,3 @@
+adapter:  sqlite3
+database: benchmarks.sqlite3
+encoding: utf8

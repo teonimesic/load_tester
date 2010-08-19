@@ -1,0 +1,6 @@
+url:        google.com 
+repeats:    100 
+clients:    10
+verbose:    true
+statistics: true
+
